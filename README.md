@@ -12,10 +12,10 @@
 
 ## Challenges
 
-| Challenge | Solution                     |
-| --------- | ---------------------------- |
-| 1         | [solution](./challenge01.js) |
-| 2         | [solution](./challenge02.js) |
+| Challenge | Solution                      |
+| --------- | ----------------------------- |
+| 1         | [solution](./challenge_01.js) |
+| 2         | [solution](./challenge_02.js) |
 
 ## Run it
 
