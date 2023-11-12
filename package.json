@@ -1,0 +1,16 @@
+{
+  "name": "codember",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "challenge01": "node ./challenge_01.js",
+    "challenge02": "node ./challenge_02.js"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  }
+}
