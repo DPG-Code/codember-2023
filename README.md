@@ -12,13 +12,16 @@
 
 ## Challenges
 
-| Challenge | Solution                      |
-| --------- | ----------------------------- |
-| 1         | [solution](./challenge_01.js) |
-| 2         | [solution](./challenge_02.js) |
+| Challenge    | Solution                      |
+| ------------ | ----------------------------- |
+| Challenge 01 | [solution](./challenge_01.js) |
+| Challenge 02 | [solution](./challenge_02.js) |
+| Challenge 03 | [solution](./challenge_03.js) |
 
 ## Run it
 
 ```bash
 npm run challenge01
+npm run challenge02
+npm run challenge...
 ```
