@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "challenge01": "node ./challenge_01.js",
     "challenge02": "node ./challenge_02.js",
-    "challenge03": "node ./challenge_03.js"
+    "challenge03": "node ./challenge_03.js",
+    "challenge04": "node ./challenge_04.js"
   },
   "devDependencies": {
     "vite": "^4.4.5"
