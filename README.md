@@ -18,6 +18,7 @@
 | Challenge 02 | [solution](./challenge_02.js) |
 | Challenge 03 | [solution](./challenge_03.js) |
 | Challenge 04 | [solution](./challenge_04.js) |
+| Challenge 05 | [solution](./challenge_05.js) |
 
 ## Run it
 
